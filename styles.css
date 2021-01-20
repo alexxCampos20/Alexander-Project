@@ -1,0 +1,22 @@
+img {
+    height: 200px;   
+}
+
+.Magico {
+  border: 1.0px solid black;
+  border-collapse: collapse;
+  padding: 25px; 
+  margin: 25px;
+  background-color:#E0FFFF;  
+}
+.menu1 {
+    display: flex;
+    padding: 25px;
+}
+.item{ 
+    background:blue;
+    padding: 10px;
+}
+.item1:hover {
+    background:green;
+}
